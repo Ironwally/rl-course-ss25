@@ -1,0 +1,13 @@
+{
+  "folders": [
+      {
+          "path": "."
+      }
+  ],
+  "settings": {
+      "python.condaPath": "/home/pcuser/anaconda3/condabin/conda",
+      "python.pythonPath": "/home/pcuser/anaconda3/envs/my_env/bin/python",
+      "python.terminal.activateEnvironment": true,
+      "python.terminal.activateEnvInCurrentTerminal": true
+  }
+}
