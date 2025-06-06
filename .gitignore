@@ -156,7 +156,9 @@ dmypy.json
 cython_debug/
 
 # solutions
-solutions/
+solutions/*
+!solutions/S1_FrozenLake_Random.py
+!solutions/S2_FrozenLake_PolicyEval.py
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
@@ -169,10 +171,6 @@ solutions/
 .vscode/
 
 # exclude next
-Lab_3.md
-3_FrozenLake_Prediction.py
-Lab_4.md
-4_FrozenLake_Control.py
 data/
 Lab_5.md
 5_PyTorch_Example.ipynb
